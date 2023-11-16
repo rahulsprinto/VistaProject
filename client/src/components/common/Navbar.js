@@ -6,7 +6,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
       <div className="container">
         <NavLink className="navbar-brand" to="/">
-          Krish Project Management
+          The Vista Corporation
         </NavLink>
 
         <div className="collapse navbar-collapse" id="mobileMenu">
